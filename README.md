@@ -1,5 +1,5 @@
 # Restraurant_Score_Predicting
-Durham University has partnered with the University of San Francisco where my classmates and I have worked on real world datasets and construct useful insight from our results.
+Durham University has partnered with the University of San Francisco where my classmates and I have worked on real world datasets and construct useful insight from our results focused on prioritizing restaurant inspection scorse in the midst of COVID-19.
 
 Authors: Madison Tagg, Daria Komarova, Xinyi Luo, Ziyue Jin
 
